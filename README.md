@@ -1,5 +1,5 @@
 ## Introduction
-I have created this repository with the goal of documenting, learning & extending(maybe in future) some of the Algotrading repositories. The current list contains only the repository which are well maintained and/or with recent updates. 
+I have created this repository with the goal of documenting, learning & extending(maybe in future) some of the Algotrading repositories. The current list contains only the repository which are well maintained and/or with recent updates. Feel free to add! 
 
 ## Maintanance
 I currently have no plans to update this list. If you see something which is outdated, feel free to open an Issue or Pull Request. I will respond to them quickly. If you think I missed your favorite one, please tell me and I will add it in the list.
